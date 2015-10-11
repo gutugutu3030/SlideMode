@@ -1,7 +1,7 @@
 # SlideMode
 Processing 2.x用のプレゼンモードです．
 本来エディタに当たる部分をスライドの表示部分に変更しました．
-![スクショ](https://i.gyazo.com/d430e67c0bf292eab97c7cc5bff5e02e.png)
+![スクショ](https://i.gyazo.com/cbd5614a1a0adf68ed93bdc6cabbcd58.png)
 ## Download
 [こちらからダウンロードできます](https://www.dropbox.com/s/pu1neydfdxgk4kx/SlideMode.zip?dl=0)
 ## 導入方法
