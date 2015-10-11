@@ -1,0 +1,14 @@
+draw() {
+  if (apapapapapa!=null) {
+    try {
+      Class<?> clazz = Class.forName(targetClass, true, loader);
+      clazz.getField("frameCount").set(apapapapapa, frameCount);
+    }
+    catch(Exception e) {
+    }
+    try {
+      apapapapapa.draw();
+    }
+    catch(Exception e) {
+    }
+  }
